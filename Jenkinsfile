@@ -9,6 +9,6 @@ node {
 
     }
     stage("Deploy Docker image") {
-        
+        #something should go here
     }
 }
